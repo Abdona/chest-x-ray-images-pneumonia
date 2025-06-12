@@ -1,6 +1,6 @@
 # chest-x-ray-images-pneumonia
 
-- Use NN to chest images to classify images in normal or pneumonia
+- Use NN to classify chest images into normal or pneumonia
 
 ## Built With
 
@@ -17,6 +17,10 @@
 - GitHub: [@Github](https://github.com/Abdona)
 - Kaggle: [@Kaggle](https://www.kaggle.com/abdulrahmannaser)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahmannaserelawady/)
+
+## Next:
+- Use Augmentation to balance the dataset
+- Use CNN instead of NN
 
 ## Show your support
 
