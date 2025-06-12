@@ -1,6 +1,6 @@
 # chest-x-ray-images-pneumonia
 
-- Use NN to chest images to predict normal or pnumonia
+- Use NN to chest images to classify images in normal or pneumonia
 
 ## Built With
 
