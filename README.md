@@ -1,7 +1,6 @@
 # chest-x-ray-images-pneumonia
 
-> Visualize using matplotlib.
-> Apply Logistic Regression, Support vector classifier, and Neural network, and compare their execution time as well as accuracy.
+- Use NN to chest images to predict normal or pnumonia
 
 ## Built With
 
