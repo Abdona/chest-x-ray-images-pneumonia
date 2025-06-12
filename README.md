@@ -19,7 +19,7 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahmannaserelawady/)
 
 ## Next:
-- Use Augmentation to balance the dataset
+- Use Augmentation to generate and balance the dataset
 - Use CNN instead of NN
 
 ## Show your support
