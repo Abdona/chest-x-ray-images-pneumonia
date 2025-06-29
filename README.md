@@ -19,8 +19,8 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahmannaserelawady/)
 
 ## Next:
-- Use Augmentation to generate and balance the dataset
-- Use CNN instead of NN
+- Use Transfer learning
+- Deploy the model using Streamlit
 
 ## Show your support
 
